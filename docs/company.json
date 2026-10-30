@@ -3,9 +3,15 @@
   "company": "FLOWX.AI",
   "brand": "FlowX.AI",
   "status": "activ",
-  "location": ["Bucuresti"],
-  "website": ["https://flowx.ai"],
-  "career": ["https://apply.workable.com/flowxai/"],
+  "location": [
+    "Bucuresti"
+  ],
+  "website": [
+    "https://flowx.ai"
+  ],
+  "career": [
+    "https://apply.workable.com/flowxai/"
+  ],
   "scraperFile": "https://github.com/amaliatanase/flowxai-scraper/actions/workflows/scrape.yml",
   "ownJobUrlPrefix": "https://flowx.ai/jobs/"
 }

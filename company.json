@@ -1,0 +1,91 @@
+{
+  "validatedAt": "2026-10-30T11:24:38.838799+00:00",
+  "source": "ANAF",
+  "brand": "FlowX.AI",
+  "anaf": {
+    "cui": 43346505,
+    "name": "FLOWX.AI R&D S.R.L.",
+    "address": "MUNICIPIUL BUCUREŞTI, SECTOR 1, PŢA CHARLES DE GAULLE, NR.15, CLADIREA CHARLES DE GAULLE, ET.9",
+    "registrationNumber": "J2020015739407",
+    "phone": "",
+    "fax": "",
+    "postalCode": "11857",
+    "caenCode": "5829",
+    "iban": "",
+    "registrationState": "TRANSFER(SOSIRE) din data 06.07.2022",
+    "registrationDate": "2020-11-18",
+    "fiscalAuthority": "Direcţia Generală a Finanţelor Publice Municipiul Bucureşti",
+    "ownershipForm": "PROPR.PRIVATA-CAPITAL PRIVAT AUTOHTON",
+    "organizationForm": "PERSOANA JURIDICA",
+    "legalForm": "SOCIETATE COMERCIALĂ CU RĂSPUNDERE LIMITATĂ",
+    "vatRegistered": true,
+    "vatPeriods": [
+      {
+        "start": "2021-01-01",
+        "end": null,
+        "yearStart": "",
+        "message": ""
+      }
+    ],
+    "cashBasisVat": false,
+    "cashBasisVatStart": null,
+    "cashBasisVatEnd": null,
+    "inactive": false,
+    "inactiveSince": null,
+    "reactivatedSince": null,
+    "splitVat": false,
+    "eFacturaRegistered": false,
+    "headquartersAddress": {
+      "street": "Pţa. Charles De Gaulle",
+      "number": "15",
+      "locality": "Sector 1 Mun. Bucureşti",
+      "county": "MUNICIPIUL BUCUREŞTI",
+      "country": "",
+      "postalCode": "11857"
+    },
+    "fiscalAddress": {
+      "street": "",
+      "number": "",
+      "locality": "",
+      "county": "",
+      "country": "",
+      "postalCode": ""
+    },
+    "administrators": [],
+    "authorizedCaenCodes": [],
+    "onrcStatus": 0,
+    "onrcStatusLabel": "Funcțiune"
+  },
+  "peviitor": {
+    "id": "43346505",
+    "company": "FLOWX.AI R&D S.R.L.",
+    "brand": "FLOWX.AI",
+    "status": "activ",
+    "location": [
+      "Bucureşti Sectorul 1"
+    ],
+    "website": [
+      "https://www.flowxai.com"
+    ],
+    "lastScraped": "2026-07-11",
+    "scraperFile": "inviitor-ro-nodejs-scraper",
+    "address": [
+      "CHARLES DE GAULLE, 15, Bucureşti Sectorul 1, Bucureşti"
+    ],
+    "anafData": [
+      "{\"cif\":43346505,\"cui\":43346505,\"denumire\":\"FLOWX.AI R&D S.R.L.\",\"company\":\"FLOWX.AI R&D S.R.L.\",\"brand\":\"FLOWX.AI R&D S.R.L.\",\"statusImpozit\":\"activ\",\"adresa\":\"CHARLES DE GAULLE, 15, Bucureşti Sectorul 1, Bucureşti\",\"localitate\":\"Bucureşti Sectorul 1\",\"website\":\"\"}"
+    ],
+    "existingJobsCount": [
+      0
+    ],
+    "_version_": 1870411387650441216,
+    "_root_": "43346505"
+  },
+  "summary": {
+    "company": "FLOWX.AI R&D S.R.L.",
+    "cif": "43346505",
+    "active": true,
+    "inactiveSince": null,
+    "address": "MUNICIPIUL BUCUREŞTI, SECTOR 1, PŢA CHARLES DE GAULLE, NR.15, CLADIREA CHARLES DE GAULLE, ET.9"
+  }
+}
