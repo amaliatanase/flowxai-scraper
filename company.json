@@ -1,5 +1,5 @@
 {
-  "validatedAt": "2026-10-31T08:30:09.671861+00:00",
+  "validatedAt": "2026-10-31T11:25:23.278816+00:00",
   "source": "ANAF",
   "brand": "FlowX.AI",
   "anaf": {
@@ -58,27 +58,21 @@
   },
   "peviitor": {
     "id": "43346505",
-    "company": "FLOWX.AI R&D S.R.L.",
-    "brand": "FLOWX.AI",
+    "company": "FLOWX.AI R&amp;D S.R.L.",
+    "brand": "FlowX.AI",
     "status": "activ",
     "location": [
-      "Bucureşti Sectorul 1"
+      "MUNICIPIUL BUCUREŞTI, SECTOR 1, PŢA CHARLES DE GAULLE, NR.15, CLADIREA CHARLES DE GAULLE, ET.9"
     ],
     "website": [
-      "https://www.flowxai.com"
+      "https://flowx.ai"
     ],
-    "lastScraped": "2026-07-11",
-    "scraperFile": "inviitor-ro-nodejs-scraper",
-    "address": [
-      "CHARLES DE GAULLE, 15, Bucureşti Sectorul 1, Bucureşti"
+    "career": [
+      "https://apply.workable.com/flowxai/"
     ],
-    "anafData": [
-      "{\"cif\":43346505,\"cui\":43346505,\"denumire\":\"FLOWX.AI R&D S.R.L.\",\"company\":\"FLOWX.AI R&D S.R.L.\",\"brand\":\"FLOWX.AI R&D S.R.L.\",\"statusImpozit\":\"activ\",\"adresa\":\"CHARLES DE GAULLE, 15, Bucureşti Sectorul 1, Bucureşti\",\"localitate\":\"Bucureşti Sectorul 1\",\"website\":\"\"}"
-    ],
-    "existingJobsCount": [
-      0
-    ],
-    "_version_": 1870411387650441216,
+    "lastScraped": "2026-10-31",
+    "scraperFile": "https://github.com/amaliatanase/flowxai-scraper/actions/workflows/scrape.yml",
+    "_version_": 1880553328311533568,
     "_root_": "43346505"
   },
   "summary": {
