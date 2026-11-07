@@ -1,5 +1,5 @@
 {
-  "validatedAt": "2026-11-06T13:24:17.558191+00:00",
+  "validatedAt": "2026-11-07T12:01:59.894754+00:00",
   "source": "ANAF",
   "brand": "FlowX.AI",
   "anaf": {
@@ -58,7 +58,7 @@
   },
   "peviitor": {
     "id": "43346505",
-    "company": "FLOWX.AI R&amp;amp;amp;amp;amp;amp;amp;D S.R.L.",
+    "company": "FLOWX.AI R&amp;amp;amp;amp;amp;amp;amp;amp;D S.R.L.",
     "brand": "FlowX.AI",
     "status": "activ",
     "location": [
@@ -70,9 +70,9 @@
     "career": [
       "https://apply.workable.com/flowxai/"
     ],
-    "lastScraped": "2026-11-05",
+    "lastScraped": "2026-11-06",
     "scraperFile": "https://github.com/amaliatanase/flowxai-scraper/actions/workflows/scrape.yml",
-    "_version_": 1881025799293763584,
+    "_version_": 1881115415249158144,
     "_root_": "43346505"
   },
   "summary": {
