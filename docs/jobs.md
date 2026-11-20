@@ -1,4 +1,4 @@
-# FLOWX.AI R&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;D S.R.L.
+# FLOWX.AI R&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;D S.R.L.
 
 ## Company Info
 
@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 1, PŢA CHARLES DE GAULLE, NR.15, CLADIREA CHARLES DE GAULLE, ET.9 |
 | Website | [https://flowx.ai](https://flowx.ai) |
 | Careers | [https://apply.workable.com/flowxai/](https://apply.workable.com/flowxai/) |
-| Last Scraped | 2026-11-19 |
+| Last Scraped | 2026-11-20 |
 
 ## Current Job Listings (1)
 
-_Generated: 2026-11-19T14:51:03.883048+00:00_
+_Generated: 2026-11-20T14:32:37.405480+00:00_
 
 ### Junior Sales Assistant, Bucharest
 
